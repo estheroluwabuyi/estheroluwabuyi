@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link](https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?ousp=drive_linkkkk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_linkkkk](https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?ousp=drive_linkkkk)
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
 
