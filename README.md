@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [A fitness web app](https://github.com/estheroluwabuyi/CoreFit-App)
+- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client)
 
-- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **frontend development**
 
