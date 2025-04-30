@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Frontend Developer building responsive, accessible, and user-focused web apps</h3>
 
-- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client)
-
+- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client) – a job-matching platform that connects HRs with job seekers. I’m building the resume builder feature using Next.js and TypeScript.
 
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link]()
+- 📄 Know my experiences [https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link]()
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
 
