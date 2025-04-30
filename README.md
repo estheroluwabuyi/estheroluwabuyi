@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
 <h3 align="center">A Frontend Developer building responsive, accessible, and user-focused web apps</h3>
 
-- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client) – a job-matching platform that connects HRs with job seekers. I’m building the resume builder feature using Next.js and TypeScript.
+- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client) – a job-matching platform that connects HRs with job seekers. I built the landing page and the resume builder feature using Next.js and TypeScript, and may contribute to more sections as the product evolves.
 
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
-- 📄 Know my experiences [https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link]()
+- 📄  [View my CV](https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link)
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thecodegirlie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodegirlie_" height="30" width="40" /></a>
+<a href="https://twitter.com/thecodegirlie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profle-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodegirlie_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esther-oluwabuyi-838651234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esther-oluwabuyi-838651234/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/estheroluwabuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estheroluwabuyi" height="30" width="40" /></a>
 </p>
