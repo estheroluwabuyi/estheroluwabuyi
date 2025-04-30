@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
-- 📄  [View my CV](https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link)
+- 📄  [View my CV](https://drive.google.com/file/d/15gmxZfmCGr0-OQN-m7A5nL7ae8pK5Mpr/view?usp=drivesdk)
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
 - 
