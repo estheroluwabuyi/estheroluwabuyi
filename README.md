@@ -10,6 +10,20 @@
 - 📄  [View my CV](https://drive.google.com/file/d/1D_5UyeJ1Mvqq1g-8h4lqlK2JF6oZi2a6/view?usp=drive_link)
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
+- 
+- ### 📌 Featured Projects
+
+- **[TalentNCrowns](https://talentncrowns.vercel.app/)**  
+  A job-matching platform built with Next.js and TypeScript.  
+  [GitHub](https://github.com/archsaintnexus/talent-n-crowns-client)
+
+- **[CyberPosture Website](https://cyberposture-the-code-gal.netlify.app/)**  
+  React website built from a Figma design with reusable components.  
+  [GitHub](https://github.com/estheroluwabuyi/cyberposture--v2)
+
+- **[Grilli Restaurant Website](https://grilli-restaurant-thecodegal.netlify.app/)**  
+  Responsive food website built with HTML, CSS & JS.  
+  [GitHub](https://github.com/estheroluwabuyi/Grilli-Website)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
