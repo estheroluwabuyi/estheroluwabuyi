@@ -10,7 +10,7 @@
 - 📄  [View my CV](https://drive.google.com/file/d/15gmxZfmCGr0-OQN-m7A5nL7ae8pK5Mpr/view?usp=drivesdk)
 
 - ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
-- 
+
 - ### 📌 Featured Projects
 
 - **[TalentNCrowns](https://talentncrowns.vercel.app/)**  
