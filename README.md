@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client) – a job-matching platform that connects HRs with job seekers. I built the landing page and the resume builder feature using Next.js and TypeScript, and may contribute to more sections as the product evolves.
 
+- Here's my portfolio: [Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)
+
 - 💬 Ask me about **frontend development**
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
