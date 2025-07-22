@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
 <h3 align="center">A Frontend Developer building responsive, accessible, and user-focused web apps</h3>
 
-- 🔭 I’m currently working on [TalentnCrowns](https://github.com/archsaintnexus/talent-n-crowns-client) – a job-matching platform that connects HRs with job seekers. I built the landing page and the resume builder feature using Next.js and TypeScript, and may contribute to more sections as the product evolves.
+- 🔭 I’m currently working on [CoreFit](https://github.com/estheroluwabuyi/corefit-gym) — A modern and responsive gym website that combines fitness services with an e-commerce experience.
 
 - Here's my portfolio: [Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)
 
