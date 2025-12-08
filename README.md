@@ -5,13 +5,13 @@
 
 - Here's my portfolio: [Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)
 
-- 💬 Ask me about **frontend development**
+- 💬 Ask me about **frontend development, books(fiction 😊), poems**
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
 <!--- 📄  [View my CV](https://drive.google.com/file/d/1PcRhpeeRpV1EkNP5Emm_-jYy3KwRbKhN/view?usp=drivesdk)-->
 
-- ⚡ Fun fact **When I'm not coding, I'm crocheting or journaling my thoughts!**
+- ⚡ Fun fact **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
 
 - ### 📌 Featured Projects
 
