@@ -7,13 +7,13 @@
 
 - 💬 Ask me about: **frontend development, books(fiction 😊), poems.**
 
-- 📫 How to reach me **estheroluwabuyi@gmail.com**
+- 📫 How to reach me: **estheroluwabuyi@gmail.com**
 
 <!--- 📄  [View my CV](https://drive.google.com/file/d/1PcRhpeeRpV1EkNP5Emm_-jYy3KwRbKhN/view?usp=drivesdk)-->
 
-- ⚡ Fun fact **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
+- ⚡ Fun fact: **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
   
-- ✍️ Check me out on medium: **[Esther](https://medium.com/@the_code_gal)**
+- ✍️ Check me out on Medium: **[Esther](https://medium.com/@the_code_gal)**
 
 - ### 📌 Featured Projects
 
