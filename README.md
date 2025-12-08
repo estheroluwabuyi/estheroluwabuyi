@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [CoreFit](https://github.com/estheroluwabuyi/corefit-gym) — A modern and responsive gym website that combines fitness services with an e-commerce experience.
 
-- Here's my portfolio: [Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)
+- Here's my portfolio: **[Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)**
 
 - 💬 Ask me about: **frontend development, books(fiction 😊), poems.**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
   
-- ✍️ Check me out on medium: **[Esther]**(https://medium.com/@the_code_gal)
+- ✍️ Check me out on medium: **[Esther](https://medium.com/@the_code_gal)**
 
 - ### 📌 Featured Projects
 
