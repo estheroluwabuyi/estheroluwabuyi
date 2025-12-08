@@ -5,7 +5,7 @@
 
 - Here's my portfolio: [Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)
 
-- 💬 Ask me about **frontend development, books(fiction 😊), poems**
+- 💬 Ask me about: **frontend development, books(fiction 😊), poems.**
 
 - 📫 How to reach me **estheroluwabuyi@gmail.com**
 
