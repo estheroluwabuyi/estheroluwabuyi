@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
 <h3 align="center">A Frontend Developer building responsive, accessible, and user-focused web apps</h3>
 
-- 🔭 I’m currently working on [CoreFit](https://github.com/estheroluwabuyi/corefit-gym) — A modern and responsive gym website that combines fitness services with an e-commerce experience.
+- 🔭 I’m currently building [Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker) — A job application tracker focused on helping job seekers stay organised, track application statuses, and keep useful notes in one place.
 
 - Here's my portfolio: **[Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)**
 
