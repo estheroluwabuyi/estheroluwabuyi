@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
   
-- ✍️ Check me out on Medium: **[Esther](https://medium.com/@the_code_gal)**
+- ✍️ Check me out on Medium: **[Esther](https://medium.com/@xo.esther)**
 
 - ### 📌 Featured Projects
 
