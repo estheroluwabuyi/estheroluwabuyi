@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
-<h3 align="center">A Frontend Developer building responsive, accessible, and user-focused web apps</h3>
+<h3 align="center">A Frontend Developer building responsive, accessible, empathetic, and user-focused web apps</h3>
 
 - 🔭 I’m currently building [Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker) — A full-stack job application tracker focused on helping job seekers stay organised, track application statuses, and keep useful notes in one place.
 
