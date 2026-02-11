@@ -69,8 +69,5 @@
 
 
 <!--**************STATS**************-->
-
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi)
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=top-repos)
