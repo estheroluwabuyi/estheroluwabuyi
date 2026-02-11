@@ -69,4 +69,4 @@
 
 
 <!--**************STATS**************-->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight)
