@@ -1,33 +1,29 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
-<h3 align="center">A Frontend Developer building responsive, accessible, empathetic, and user-focused web apps</h3>
+<h3 align="center">Frontend Developer | Building responsive and user-focused web apps</h3>
 
-- 🔭 I’m currently building [Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker) — A full-stack job application tracker focused on helping job seekers stay organised, track application statuses, and keep useful notes in one place.
+-🔭 I’m currently building [Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker) — a full-stack job application tracker with adaptive dashboard stats and a focus on reducing friction in job search processes. Built with **React, Tailwind CSS, and Supabase**
 
 - Here's my portfolio: **[Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)**
 
-- 💬 Ask me about: **frontend development, books, poems.**
+- 💬 Ask me about: **frontend development, user-focused design, and tech productivity.**
 
-- 📫 How to reach me: **estheroluwabuyi@gmail.com**
+- 📫 Reach me at **estheroluwabuyi@gmail.com** — feel free to connect for frontend projects or advice.
 
 <!--📄 [View my CV](https://docs.google.com/document/d/1JED245Fv9hJasiV3TpeP_RlpzI62ggOkaW66bLApf5E/edit?usp=drive_link)  -->
 
-- ⚡ Fun fact: **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts!**
+- ⚡ Fun fact: **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts**
   
 - ✍️ Check me out on Medium: **[Esther](https://medium.com/@xo.esther)**
 
 - ### 📌 Featured Projects
 
-- **[TalentNCrowns](https://talentncrowns.vercel.app/)**  
-  A job-matching platform built with Next.js and TypeScript.  
-  [GitHub](https://github.com/archsaintnexus/talent-n-crowns-client)
+- **[CoreFit Gym E-Commerce](https://github.com/estheroluwabuyi/corefit-gym)**  
+  React, JavaScript, Tailwind CSS, Framer Motion  
+  Implemented product listings, shopping cart, checkout interface, and Framer Motion animations for smooth interactions.
 
-- **[CyberPosture Website](https://cyberposture-the-code-gal.netlify.app/)**  
-  React website built from a Figma design with reusable components.  
-  [GitHub](https://github.com/estheroluwabuyi/cyberposture--v2)
-
-- **[Grilli Restaurant Website](https://grilli-restaurant-thecodegal.netlify.app/)**  
-  Responsive food website built with HTML, CSS & JS.  
-  [GitHub](https://github.com/estheroluwabuyi/Grilli-Website)
+- **[TalentNCrowns (Resume Builder)](https://talentncrowns.vercel.app/)**  
+  Next.js, TypeScript, Tailwind CSS  
+  Built the resume creation, editing, and download flows, developed landing page and responsive UI components in a collaborative codebase.
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
