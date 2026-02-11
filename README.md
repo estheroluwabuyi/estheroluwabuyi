@@ -70,6 +70,7 @@
 
 <!--**************STATS**************-->
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=github_dark" />
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=top-repos)
