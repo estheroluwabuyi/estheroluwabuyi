@@ -55,7 +55,7 @@
   <!-- Backend / Database -->
   <a href="https://supabase.com/" target="_blank">
     <!-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/supabase.svg" alt="Supabase" width="40" height="40"/> -->
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  width="40" height="40"/>
   </a>
 
   <!-- Framer Motion -->
