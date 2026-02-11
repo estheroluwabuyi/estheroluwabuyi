@@ -29,7 +29,7 @@
 <p align="left">  
 <a href="https://twitter.com/thecodegirlie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodegirlie_" height="40" width="40" /></a>  
 <a href="https://linkedin.com/in/esther-oluwabuyi-838651234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esther-oluwabuyi-838651234/" height="40" width="40" /></a>  
-<a href="https://codesandbox.com/estheroluwabuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estheroluwabuyi" height="40" width="40" /></a>  
+<a href="https://codesandbox.com/estheroluwabuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estheroluwabuyi" height="45" width="45" /></a>  
 </p>  <h3 align="left">Languages and Tools:</h3>  
 <p align="left">
   <!-- Frontend -->
@@ -69,14 +69,8 @@
 
 
 <!--**************STATS**************-->
-### 📊 GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight" height="180"/>
-</p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight" height="200"/>
 </p>
 
