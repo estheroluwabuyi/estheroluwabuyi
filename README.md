@@ -72,8 +72,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=github_dark" />
