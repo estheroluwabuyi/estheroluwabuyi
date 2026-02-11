@@ -70,3 +70,5 @@
 
 <!--**************STATS**************-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight)
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight)
