@@ -72,3 +72,4 @@
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
 <img src="https://streak-stats.demolab.com?user=estheroluwabuyi&theme=outrun&hide_border=true" alt="estheroluwabuyi's GitHub Stats" />
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
