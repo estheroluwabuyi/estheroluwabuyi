@@ -15,7 +15,7 @@
   
 - ✍️ Check me out on Medium: **[Esther](https://medium.com/@xo.esther)**
 
-- ### 📌 Featured Projects
+- ###  Featured Projects
 
 - **[CoreFit Gym E-Commerce](https://github.com/estheroluwabuyi/corefit-gym)**  
   React, JavaScript, Tailwind CSS, Framer Motion  
