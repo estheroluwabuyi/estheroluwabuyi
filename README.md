@@ -57,12 +57,7 @@
   <a href="https://supabase.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  width="40" height="40"/>
   </a>
-
-  <!-- Framer Motion --
-  <a href="https://www.framer.com/motion/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/framer.svg" alt="Framer Motion" width="40" height="40"/>
-  </a>
--->
+  
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -71,3 +66,7 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   </a>
 </p>
+
+
+<!--**************STATS**************-->
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight)
