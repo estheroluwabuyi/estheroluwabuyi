@@ -46,8 +46,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
   <!--*************-->
-    <a href="https://reactjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="React" width="40" height="40"/>
+    <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=the nextjs" alt="Next" width="40" height="40"/>
   </a>
   
   <a href="https://nextjs.org/" target="_blank">
