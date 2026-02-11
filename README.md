@@ -70,7 +70,10 @@
 
 <!--**************STATS**************-->
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 </p>
 
