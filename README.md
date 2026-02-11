@@ -45,6 +45,11 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
+  <!--*************-->
+    <a href="https://reactjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="React" width="40" height="40"/>
+  </a>
+  
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
   </a>
@@ -58,11 +63,11 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  width="40" height="40"/>
   </a>
 
-  <!-- Framer Motion -->
+  <!-- Framer Motion --
   <a href="https://www.framer.com/motion/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/framer.svg" alt="Framer Motion" width="40" height="40"/>
   </a>
-
+-->
   <!-- Languages -->
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
