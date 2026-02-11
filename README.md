@@ -47,7 +47,7 @@
   </a>
   <!--*************-->
     <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=the nextjs" alt="Next" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next" width="40" height="40"/>
   </a>
   
   <a href="https://nextjs.org/" target="_blank">
