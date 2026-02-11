@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **frontend development, user-focused design, and tech productivity.**
 
-- 📫 Reach me at **estheroluwabuyi@gmail.com** — feel free to connect for frontend projects or advice.
+- 📫 Reach me at **estheroluwabuyi@gmail.com** — feel free to connect for frontend projects.
 
 <!--📄 [View my CV](https://docs.google.com/document/d/1JED245Fv9hJasiV3TpeP_RlpzI62ggOkaW66bLApf5E/edit?usp=drive_link)  -->
 
@@ -69,6 +69,4 @@
 
 
 <!--**************STATS**************-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estheroluwabuyi&layout=compact&theme=tokyonight)
-![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=estheroluwabuyi&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=estheroluwabuyi&theme=tokyonight)
