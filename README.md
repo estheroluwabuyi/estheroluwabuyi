@@ -42,25 +42,25 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
-  <!--*************-->
     <a href="https://nextjs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next" width="40" height="40"/>
   </a>
   
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nextdotjs.svg" alt="Next.js" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-
-  <!-- Backend / Database -->
   <a href="https://supabase.com/" target="_blank">
-    <!-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/supabase.svg" alt="Supabase" width="40" height="40"/> -->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"  width="40" height="40"/>
+  </a>
+  </a>
+    <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Next" width="40" height="40"/>
   </a>
 
   <!-- Framer Motion --
@@ -68,13 +68,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/framer.svg" alt="Framer Motion" width="40" height="40"/>
   </a>
 -->
-  <!-- Languages -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
   <!-- Tools -->
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://figma.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
   </a>
 </p>
