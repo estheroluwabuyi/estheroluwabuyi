@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
 <h3 align="center">Frontend Developer | Building responsive and user-focused web apps</h3>
 
--🔭 I’m currently building [Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker) — a full-stack job application tracker with adaptive dashboard stats and a focus on reducing friction in job search processes. Built with **React, Tailwind CSS, and Supabase**
+-🔭 I’m currently building **[Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker)** — a full-stack job application tracker with adaptive dashboard stats and a focus on reducing friction in job search processes. Built with **React, Tailwind CSS, and Supabase**
 
 - Here's my portfolio: **[Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)**
 
