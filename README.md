@@ -21,7 +21,7 @@
   React, JavaScript, Tailwind CSS, Framer Motion  
   Implemented product listings, shopping cart, checkout interface, and Framer Motion animations for smooth interactions.
 
-- **[TalentNCrowns (Resume Builder)](https://talentncrowns.vercel.app/)**  
+- **[TalentNCrowns (Job Matching Platform)](https://talentncrowns.vercel.app/)**  
   Next.js, TypeScript, Tailwind CSS  
   Built the resume creation, editing, and download flows, developed landing page and responsive UI components in a collaborative codebase.
   
@@ -69,7 +69,7 @@
 
 
 <!--**************STATS**************-->
-<img src="https://streak-stats.demolab.com?user=estheroluwabuyi&theme=outrun&hide_border=true" alt="estheroluwabuyi's GitHub Stats" />
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
 <!--![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!-- <img src="https://streak-stats.demolab.com?user=estheroluwabuyi&theme=outrun&hide_border=true" alt="estheroluwabuyi's GitHub Stats" />
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
