@@ -26,7 +26,7 @@
   Built the resume creation, editing, and download flows, developed landing page and responsive UI components in a collaborative codebase.
   
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  
+<p align="let">  
 <a href="https://twitter.com/thecodegirlie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodegirlie_" height="40" width="50" /></a>  
 <a href="https://linkedin.com/in/esther-oluwabuyi-838651234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esther-oluwabuyi-838651234/" height="40" width="50" /></a>  
 <a href="https://codesandbox.com/estheroluwabuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estheroluwabuyi" height="40" width="50" /></a>  
