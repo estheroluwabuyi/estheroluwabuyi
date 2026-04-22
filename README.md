@@ -61,10 +61,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="framer motion logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="recharts logo" />
 </div>
 
-
 <!--**************STATS**************-->
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!--![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!--![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!-- <img src="https://streak-stats.demolab.com?user=estheroluwabuyi&theme=outrun&hide_border=true" alt="estheroluwabuyi's GitHub Stats" />
