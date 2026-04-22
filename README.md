@@ -64,7 +64,7 @@
 
 
 <!--**************STATS**************-->
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!--![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!--![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=languages)
 <!-- <img src="https://streak-stats.demolab.com?user=estheroluwabuyi&theme=outrun&hide_border=true" alt="estheroluwabuyi's GitHub Stats" />
