@@ -25,13 +25,20 @@
   Next.js, TypeScript, Tailwind CSS  
   Built the resume creation, editing, and download flows, developed landing page and responsive UI components in a collaborative codebase.
   
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://twitter.com/thecodegirlie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecodegirlie_" height="40" width="50" /></a> <a href="https://linkedin.com/in/esther-oluwabuyi-838651234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esther-oluwabuyi-838651234/" height="40" width="50" /></a>  
-<a href="https://codesandbox.com/estheroluwabuyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="estheroluwabuyi" height="40" width="50" /></a>  
-</p>
-
-<h3 align="left">Languages and Tools:</h3>  
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://twitter.com/thecodegirlie_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" alt="twitter logo" />
+  </a>
+  <img width="12" />
+  <a href="https://linkedin.com/in/esther-oluwabuyi-838651234/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" alt="linkedin logo" />
+  </a>
+  <img width="12" />
+  <a href="https://codesandbox.com/estheroluwabuyi" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="40" alt="codesandbox logo" />
+  </a>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
