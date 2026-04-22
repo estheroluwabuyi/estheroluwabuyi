@@ -1,39 +1,30 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Esther Oluwabuyi</h1>
+<h3 align="center">Frontend Developer | Building responsive and user-focused web apps</h3>
 
-###
+-🔭 I’m currently building **[Job Tracker](https://github.com/estheroluwabuyi/Job-Tracker)** — a full-stack job application tracker with adaptive dashboard stats and a focus on reducing friction in job search processes. Built with **React, Tailwind CSS, and Supabase**
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+- Here's my portfolio: **[Portfolio](https://esther-oluwabuyi-portfolio.vercel.app/)**
 
-###
+- 💬 Ask me about: **frontend development, user-focused design, and tech productivity.**
 
-<h2 align="left">About me</h2>
+- 📫 Reach me at **estheroluwabuyi@gmail.com** — feel free to connect for frontend projects.
 
-###
+<!--📄 [View my CV](https://docs.google.com/document/d/1JED245Fv9hJasiV3TpeP_RlpzI62ggOkaW66bLApf5E/edit?usp=drive_link)  -->
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+- ⚡ Fun fact: **When I'm not coding, I'm reading, writing, crocheting or journaling my thoughts**
+  
+- ✍️ Check me out on Medium: **[Esther](https://medium.com/@xo.esther)**
 
-###
+- ###  Featured Projects
 
-<h2 align="left">I code with</h2>
+- **[CoreFit Gym E-Commerce](https://github.com/estheroluwabuyi/corefit-gym)**  
+  React, JavaScript, Tailwind CSS, Framer Motion  
+  Implemented product listings, shopping cart, checkout interface, and Framer Motion animations for smooth interactions.
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+- **[TalentNCrowns (Job Matching Platform)](https://talentncrowns.vercel.app/)**  
+  Next.js, TypeScript, Tailwind CSS  
+  Built the resume creation, editing, and download flows, developed landing page and responsive UI components in a collaborative codebase.
+  
+<h3 align="left">Connect with me:</h3>
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=estheroluwabuyi&type=contributions)
+-->
